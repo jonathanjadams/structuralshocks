@@ -1,5 +1,5 @@
 # structuralshocks
-Harmonized dataset of structural shocks for use as instrumental variables
+Harmonized dataset of structural macroeconomic shocks for use as instrumental variables
 
 Please use these!  And if you do, please check back (or email me) for appropriate attribution, as the associated working paper has not been released.  
 
